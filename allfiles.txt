@@ -1,0 +1,112 @@
+19cbf68a71a0e61f26f68d969559d2dfb8b53a3f
+1a23c162b22e50212093587864d21014de721de9
+6b24615e9821297dd4fb873ef344d0cd5ed36d6f
+7d4b3df6fddd1138e4bb32b7d02534a118e2ad9c
+8aee65ec048688d2144a578875a6b1a2fd283d56
+99bbc6d090a3707499f07d66b36247a34c451bbb
+c56abac9011352e40417b1fe49456a49cab65a0c
+1985f63cfcecf48a423c356e2540408b8b82472f 
+2c728b1213a6e0ce0f83145048a2d923a50b461a 
+521aa3b91e5bde5ff2f53655472b586022b01c6b 
+8f88e5b6c0266debb487f38cc09d73c974f37307 
+9081810156938764544accc33ac056e3046cdbe7 
+94243e85c4d0eb133da93ee91bd1b657226f6afc 
+e88699dd1957613747fb75543ea947d16eac82db 
+f087b429e2f81a9f37b28a8308e2210f84df6c9b .gitattributes
+bc6d189dcf6fbf0bd99614d2fa94e5416e7cd88f .gitignore
+837c586dd329e8ea85c5f0063e5729c4f34156bc README.md
+b7dbe6334d024b4fdc32b5d4d177147461eea758 backups
+44cf675e8f7388fd35e4f5819fb543d13039e60a backups/system_backup_20251109_080305.tar.gz
+1d07d0689476ce236121ed78ab2c903df37a54e3 backups/system_backup_20251109_081018.tar.gz
+d204b998f14202eff0a5367c305d1df20ddf9859 backups/system_backup_20251109_081440.tar.gz
+d8aa2679a9430751b9c87ecdc2d17198fed0329c backups/system_backup_20251109_083520.tar.gz
+872c01559ea7ac2302b7d73ae653f7ad29f8981d backups/system_backup_20251109_084019.tar.gz
+ea9a00c959d2c40048436b5ad42302d3663ae4d4 backups/system_backup_20251109_084451.tar.gz
+3756afa9afdf384c6dc26ab20f51d1ae69b7371d backups/system_backup_20251109_090423.tar.gz
+e9cb1438d908c015089cbb0fbb73f2f2671955ca gitpush.sh
+e13e4fa44b6f1526de99dac512ca3ab8204bb3db logs
+84508148f6ef7b37f177d35dcc32e83ead3748bf logs/backup_20251109_083520.log
+17401a43bef237e9855c8a8c901aa0bc7d861e82 logs/backup_20251109_084019.log
+d26c17590086efa0c8c4b5d13dd2d1c3c91f8798 logs/backup_20251109_084451.log
+edf57179e7c6e6462b0c61dc7cd92dc5b10d6cee logs/update_20251109_083537.log
+b9e0853aff119ee6b666fc746cb038e244b14991 logs/update_20251109_084505.log
+6e2028a58fea712a9a35c61c302fa17de176f5f5 logs/update_20251109_090443.log
+5ee210f1f98a5c376b9f1f5404213c565f6e4979 maintenance_suite.sh
+98569f5103e25e8b7bae315b4b99e0c43b4171ff maintenance_suite.sh
+e6f120bb7b831a0224f7ebf4a0089834ba6aadd3 maintenance_suite.sh
+e5fbf5bf2deefd25d148abbaa2554999fae379a8 snap
+6a21913fe1fea6d6af8fcbc64b6748d5483dbd27 snap/gedit
+73322db4db64559e39672e1a66bfb11d8dc51968 snap/gedit/697
+043f94c83a6cdcbccd1eabfcca7a34ed67c5688f snap/gedit/697/.config
+b4bb165fde1fb1afb98a53e1857884f3b9e1e534 snap/gedit/697/.config/fontconfig
+5382392e4870dc90889be9cd19a7e3296b35c236 snap/gedit/697/.config/fontconfig/fonts.conf
+eac8a10e28ce8dfc5350e73cdefb3d4003361ff2 snap/gedit/697/.config/gedit
+f840d50ff8e31a17e05401c8387864eaee2102c6 snap/gedit/697/.config/gedit/accels
+70e2154d3206f25971c6db8b8944e08d7b6d96d6 snap/gedit/697/.config/gtk-2.0
+8e63ffce02369d71f32302b6f9e8b98c0aca9f39 snap/gedit/697/.config/gtk-2.0/gtkfilechooser.ini
+88703815df151e3156c2a6d15b56d3199d55e30f snap/gedit/697/.config/gtk-3.0
+c57387101dd08bf8f39075f350cc5a09df3272b7 snap/gedit/697/.config/gtk-3.0/bookmarks
+82c96823bc866c3c8120a7330ba75780740f126d snap/gedit/697/.config/gtk-3.0/gtk.css
+f2df6eec5fdcf45d0b557101caf608763a3311b9 snap/gedit/697/.config/gtk-3.0/settings.ini
+c8badd562e57a3bf6e567729035f5906fabcd1f9 snap/gedit/697/.config/ibus
+f6786a10753e993d9d9d25b70444d5003fb68702 snap/gedit/697/.config/ibus/bus
+7f9a959317901f152dec35eff8550c12b8f73e6b snap/gedit/697/.config/user-dirs.dirs
+96d80cd6c4e7158dbebd0849f4fb7ce513e5828c snap/gedit/697/.config/user-dirs.locale
+e59d2ad6a57a1bb89a5b1611b2398ba6e3a8a7dc snap/gedit/697/.last_revision
+3d91ba57f77b524edcf8efe80e95fc4f65e63ee7 snap/gedit/697/.local
+dec935c6684ae0cfdb60c03cc7e7e73e21e7c300 snap/gedit/697/.local/share
+02a7cd8445d7b97af413c7f547c53bd1a9c4ffa9 snap/gedit/697/.local/share/gedit
+d8f43f81ea49462f9d4bd79c4cbd63f401ea08f5 snap/gedit/697/.local/share/gedit/gedit-metadata.xml
+868f3daef45aaa1750b03918aeaa781ec37a5b4f snap/gedit/697/.local/share/glib-2.0
+3d93bcb164fdb6cdaef5fc27c370f38c59b1b7e9 snap/gedit/697/.local/share/glib-2.0/schemas
+42275cf9503ea023cf96dddfad62cca16ce35638 snap/gedit/697/.local/share/glib-2.0/schemas/gschemas.compiled
+331f64789a2def7565eb8b6a5c55bb6fe9d33511 snap/gedit/697/.local/share/glib-2.0/schemas/org.gnome.gedit.enums.xml
+15138f7bf01802633e2eb14c7ec857cfa89e67c1 snap/gedit/697/.local/share/glib-2.0/schemas/org.gnome.gedit.gschema.xml
+3a0c9819a9c193cead924183c3f2633ffa8587cd snap/gedit/697/.local/share/glib-2.0/schemas/org.gnome.gedit.plugins.drawspaces.gschema.xml
+12d7c61d090318f64d9d8e545f70ee00195109ab snap/gedit/697/.local/share/glib-2.0/schemas/org.gnome.gedit.plugins.filebrowser.enums.xml
+5d79d5279658964f6fb2d93adb58280a64f02217 snap/gedit/697/.local/share/glib-2.0/schemas/org.gnome.gedit.plugins.filebrowser.gschema.xml
+1c9ce57216899f0c1683a4913e12f6658c761303 snap/gedit/697/.local/share/glib-2.0/schemas/org.gnome.gedit.plugins.spell.gschema.xml
+631d09884052da04c1587cd28df3aa80042f62fb snap/gedit/697/.local/share/glib-2.0/schemas/org.gnome.gedit.plugins.terminal.gschema.xml
+37bfdf0f4ff629faee8458e977341d61d96e6991 snap/gedit/697/.local/share/glib-2.0/schemas/org.gnome.gedit.plugins.time.enums.xml
+8b12d03862d444a50f57802db1ee276ff02112cb snap/gedit/697/.local/share/glib-2.0/schemas/org.gnome.gedit.plugins.time.gschema.xml
+2c3a6247451209780ddd6efae3e8c9f56344aeda snap/gedit/697/.local/share/glib-2.0/schemas/org.gnome.gedit.plugins.wordcompletion.gschema.xml
+0498babb3b41eec16a493ed3b52841d883f4c524 snap/gedit/697/.local/share/recently-used.xbel
+e47bb9725c3af48f9a91c6ea750929ebe76c0781 snap/gedit/697/.local/share/themes
+2cfcf9f91a1224f47176d1d91f40f2e8e5f252bb snap/gedit/common
+3c0a4683f399e10d36156b1f6ba99fb1290d431a snap/gedit/common/.cache
+e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 snap/gedit/common/.cache/desktop-runtime-date
+3e371a2f038df44c8768df37e6b5afc5bae65772 snap/gedit/common/.cache/fontconfig
+3dc7061e0de8d6423815f4ac9be199abe4cadbd9 snap/gedit/common/.cache/fontconfig/0f2d6e1e9d7ebecf58f9cdbe466bb9cd-le64.cache-9
+416e934ec196c23b65d67b2449a1669b404f1d40 snap/gedit/common/.cache/fontconfig/4cd929d5bd998a2a871af445a4321e9e-le64.cache-9
+c6d9ccbbcfa11f7c6e524f8b74e954b1230fc3f0 snap/gedit/common/.cache/fontconfig/CACHEDIR.TAG
+5cc5fc7fcc6c971d76c6c0e1d3aab4939b0c461f snap/gedit/common/.cache/fontconfig/e3c62b893839dee6beacd2802e86b41b-le64.cache-9
+7bb71bba04d0f2c30faf1d07cee2e7e6eda4adf8 snap/gedit/common/.cache/fontconfig/ee54f66a0b210aa06513bfdc871952a9-le64.cache-9
+77461788b5ba92a762c1becdad4b93dc87efc922 snap/gedit/common/.cache/gdk-pixbuf-loaders.cache
+07efa163969f9818afd6de7258f7aa05b14832bd snap/gedit/common/.cache/gio-modules
+41cd3c0af9ca2e9bc8e7a841912824a78dcafa6d snap/gedit/common/.cache/gio-modules/giomodule.cache
+fdefeed2db6eab3ba37b27d6c1ac884a01c1b79b snap/gedit/common/.cache/gio-modules/libdconfsettings.so
+171898e4456fdfc22e2602f2c473826c7de6e75f snap/gedit/common/.cache/gio-modules/libgiognomeproxy.so
+85c98c7a5147fe6235f8f9584595a8f7396badf8 snap/gedit/common/.cache/gio-modules/libgiognutls.so
+3c015005958e19c92e7f3bb35fa86b39aac65918 snap/gedit/common/.cache/gio-modules/libgiolibproxy.so
+4cf8922acdbff66551b88f7c002b64402e67213e snap/gedit/common/.cache/immodules
+8e0191f99631d78f2147c58c2e7c944becd862d1 snap/gedit/common/.cache/immodules/im-am-et.so
+9eb40bdf9bf934a5e6f730829833864736fda756 snap/gedit/common/.cache/immodules/im-broadway.so
+7860af5e0f3b22b91f4483a91fa7acfb32201acd snap/gedit/common/.cache/immodules/im-cedilla.so
+fb2a41277854d11970655864979bf661378c4e37 snap/gedit/common/.cache/immodules/im-cyrillic-translit.so
+8128aadeddb2d50b3f89774bbf4ca27e469b7c38 snap/gedit/common/.cache/immodules/im-fcitx.so
+ed91a3556b86753b103ce0e3e2c709c9b8268edd snap/gedit/common/.cache/immodules/im-ibus.so
+3b45be8cfc1398299c893c47c6d4fc61306b7daa snap/gedit/common/.cache/immodules/im-inuktitut.so
+b2bb0dcb327e0ed14f95cdadfbc27ce746565942 snap/gedit/common/.cache/immodules/im-ipa.so
+3fe131334b08b0de8f240ad6dfc37865f7dcb4d2 snap/gedit/common/.cache/immodules/im-multipress.so
+a95cd19b127f0d3c44a7cc7140b69227756c5568 snap/gedit/common/.cache/immodules/im-thai.so
+95228c7dc73d72360fbed08de6da0b10c2680ef6 snap/gedit/common/.cache/immodules/im-ti-er.so
+83904c2f627e84ff6dab4f8a8c49b5c7aea7af94 snap/gedit/common/.cache/immodules/im-ti-et.so
+2a732a8401341fbe35216df1ac5ef458b6f10d58 snap/gedit/common/.cache/immodules/im-viqr.so
+5261415fcd03955af1b5a679001aa04f04628afa snap/gedit/common/.cache/immodules/im-wayland.so
+5a0ccc9cead0ee168b5e2f559e5b40f788d1de58 snap/gedit/common/.cache/immodules/im-xim.so
+08f34acde8d97bb277f97c3d53ff660f22031d5a snap/gedit/common/.cache/immodules/immodules.cache
+02d9616fbcba9b9fa1a50cb722418773c5d4f5f0 snap/gedit/current
+04f0c18eb232d3716d6d8ce275190a4fbfe3b27b system_logs
+7a522044f00a21c8d48296342a51db9473548843 system_logs/update_cleanup_20251109_081453.log
+d23fb64edfcdd2a0ce9b81f2cee2e1bacf9f73dc system_monitor
+c4fb205c00393e8e3abbd260c918a74dc2e7e9d4 system_monitor.cpp
