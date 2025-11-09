@@ -5,3 +5,5 @@ backups/
 logs/
 *.tar.gz
 *.log
+backups/
+logs/
