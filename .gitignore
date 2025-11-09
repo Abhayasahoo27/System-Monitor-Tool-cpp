@@ -1,2 +1,7 @@
 backups/*.tar.gz
 logs/*.log
+# Ignore generated files
+backups/
+logs/
+*.tar.gz
+*.log
