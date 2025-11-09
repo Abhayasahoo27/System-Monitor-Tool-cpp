@@ -1,0 +1,7 @@
+tar: Removing leading `/' from member names
+tar: /home/abhaya/Documents: Cannot stat: No such file or directory
+tar: /home/abhaya/Desktop: Cannot stat: No such file or directory
+tar: /home/abhaya/Downloads: Cannot stat: No such file or directory
+tar: /home/abhaya/Pictures: Cannot stat: No such file or directory
+tar: /home/abhaya/Videos: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
