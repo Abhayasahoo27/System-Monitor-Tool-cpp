@@ -5,7 +5,7 @@ This project automates common Linux maintenance tasks like system information ch
 The complete menu based tool is developed in **C++20 using filesystem library**.  
 This tool helps users reduce manual system maintenance effort and automate repetitive daily operations.
 
-> NOTE: There is also another version of this same project implemented in Bash Shell Script (for those who do not want to use C++). That version was done as Day 1–5 development in scripting approach before converting into C++ program.
+> NOTE: There is also another version of this same project implemented in Bash Shell Script (for those who do not want to use C++). That version was done as Day 1–5 development in scripting approach before converting into C++ program.the code is present in above file maintanance_suit.sh
 
 ---
 
