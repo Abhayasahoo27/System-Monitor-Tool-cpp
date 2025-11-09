@@ -3,9 +3,9 @@
 ## Overview
 This project automates common Linux maintenance tasks like system information check, file backup, temporary junk cleaning and disk usage display.  
 The complete menu based tool is developed in **C++20 using filesystem library**.  
-This tool helps users reduce manual system maintenance efforts and automate repetitive daily operations.
+This tool helps users reduce manual system maintenance effort and automate repetitive daily operations.
 
-This project was completed as part of **Linux OS & LSP Assignment** work.
+> NOTE: There is also another version of this same project implemented in Bash Shell Script (for those who do not want to use C++). That version was done as Day 1–5 development in scripting approach before converting into C++ program.
 
 ---
 
@@ -41,21 +41,22 @@ This project was completed as part of **Linux OS & LSP Assignment** work.
 
 ---
 
-## Day Wise Development Progress
+## Day Wise Development Progress (Student Level)
 
 | Day | Work Completed |
 |-----|----------------|
-| Day 1 | Implemented basic backup function in C++. Tested recursive file copy. Created logs and backup folder generation. |
-| Day 2 | Added System Update concept (in bash version) and Cleanup part + System information function written in C++. |
-| Day 3 | Combined modules into a single menu based C++ tool. Added interactive CLI. |
-| Day 4 | Added logging function and removed unwanted directories from backup. Logging done in text file using ofstream. |
-| Day 5 | Added auto cleanup (delete backup/logs older than 7 days). Performed bug fixing, removed unsupported folders, improved temp cleaning command. Final test run + report creation. |
+| Day 1 | Backup automation idea implemented first in bash. Tested recursive copy. |
+| Day 2 | Added System Update + Cleanup concept in bash version + started C++ conversion. |
+| Day 3 | Combined modules in C++ menu based program. |
+| Day 4 | Added logging and removed unwanted folders (snap, system folders) from backup. |
+| Day 5 | Added auto cleanup of old logs/backups and final testing + documentation. |
 
-The tool now does full automation cycle similar to a real Linux maintenance utility.
+So basically first we built bash script version and tested logic.  
+Then we converted final stable version into C++ program.
 
 ---
 
-## How To Compile and Run
+## How To Compile and Run (C++ Version)
 
 ```bash
 g++ -std=c++20 system_maintenance.cpp -o system_maintenance
